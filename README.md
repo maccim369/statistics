@@ -5,19 +5,18 @@
 
 <table>
 <tr>
-  <th rowspan="2">Educational Institution / Учреждение</th>
-  <th rowspan="2">Specialization / Специальность</th>
-  <th rowspan="2">Knowledge / Знания</th>
-  <th rowspan="2">Educational Form / Форма обучения</th>
-  <th colspan="2" >TimeFrame / Период</th>
+  <th rowspan="2">kaggle_pathlink</th>
+  <th rowspan="2">Матожидание</th>
+  <th rowspan="2">Дисперсия</th>
+  <th rowspan="2">Стандартное отклонение</th>
+  <th colspan="2">Значения случайной величины</th>
 </tr> 
 <tr> 
- <th>From</th>
- <th>To</th>
+ <th colspan="2">Соответствующие вероятности</th>
 </tr> 
 <tr>
-  <td>State Technical University / Государственный Технический Университет</td>
-  <td>process engineer with honors</td>
+  <td> <a href = "https://www.kaggle.com/competitions/titanic/data?select=train.csv">Titanic</a>   Survived '0'=549  '1'=342 </td>
+  <td>470</td>
   <td>Specialty at the Department of Chemical Technology Faculty / Специальность на кафедре Химико-Технологического факультета. </td>
   <td>Fulltime / Очная</td>
   <td>01.09.2002</td>
